@@ -1,6 +1,8 @@
 body {
     text-align: center;
     padding: 10px;
+    background: black;
+    color: white;
 }
 
 img {
@@ -13,4 +15,12 @@ img {
 
 .game-btn {
     margin: 10px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+p {
+    background: rgb(67, 67, 67);
 }
